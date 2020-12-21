@@ -2,7 +2,7 @@
 IR Codes for Räder Christmas Globes with LEDs inside
 
 
-##Räder, Timer
+## Räder, Timer
 Encoding  : NEC
 Code      : FF629D (32 bits)
 Timing[67]:
@@ -18,7 +18,7 @@ Timing[67]:
 unsigned int  rawData[67] = {9100,4500, 650,550, 650,550, 650,550, 650,550, 650,550, 650,600, 600,550, 650,550, 650,1650, 650,1650, 650,1650, 650,1650, 650,1650, 650,1650, 650,1650, 650,1650, 650,550, 650,1650, 650,1650, 650,550, 650,600, 600,550, 650,1650, 650,550, 650,1650, 650,550, 650,550, 650,1650, 650,1650, 650,1650, 650,550, 650,1650, 650};  // NEC FF629D
 unsigned int  data = 0xFF629D;
 
-##Räder, On
+## Räder, On
 Encoding  : NEC
 Code      : FF02FD (32 bits)
 Timing[67]:
@@ -35,7 +35,7 @@ unsigned int  rawData[67] = {9100,4500, 650,550, 650,600, 600,550, 650,550, 650,
 unsigned int  data = 0xFF02FD;
 
 
-##Räder, Off
+## Räder, Off
 Encoding  : NEC
 Code      : FFA857 (32 bits)
 Timing[67]:
