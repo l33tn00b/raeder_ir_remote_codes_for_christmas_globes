@@ -1,6 +1,9 @@
 # raeder_ir_remote_codes_for_christmas_globes
 IR Codes for Räder Christmas Globes with LEDs inside
 
+## Remote Control  
+![Photo Front](https://github.com/l33tn00b/raeder_ir_remote_codes_for_christmas_globes/blob/main/_20201221_101601.JPG "Remote Control, front")  
+![Photo Back](https://github.com/l33tn00b/raeder_ir_remote_codes_for_christmas_globes/blob/main/_20201221_101631.JPG "Remote Control, back")
 
 ## Räder, Timer
 Encoding  : NEC  
